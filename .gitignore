@@ -1,0 +1,5 @@
+stonky
+*.dSYM
+apikey.txt
+stonky.sqlite
+.DS_Store
